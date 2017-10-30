@@ -6,6 +6,6 @@
 
 > This is TodoMVC implementation using yallajs.io
 
-<p>
+<p align="center">
 <img align="center" class"image" src="http://yallajs.io/images/todo-mvc-background.png">
 </p>
